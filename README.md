@@ -1,6 +1,6 @@
 # Proyecto-de-Desarrollo-de-Herramientas
 
-##Descripcion del Proyecto
+## Descripcion del Proyecto
 
 Crear una Herramienta que sea capaz de posiconar personajes, insertar, modificar y cortar tiles para un videojuego en 2D.
 
